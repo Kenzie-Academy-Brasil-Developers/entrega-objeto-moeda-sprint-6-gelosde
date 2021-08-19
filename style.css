@@ -1,0 +1,40 @@
+body{
+    display: inline; 
+   
+}
+#moedasLocal{
+    width: 80%;
+    height: 220px;
+    padding-left: 10%;
+}
+img{
+    width: 10%;
+}
+#jogar{
+    position: absolute;
+    width: 30%;
+    height: 100px;
+    top: 50%;
+    left: 33%;
+    background-color:black;
+    color:aquamarine;
+    border-radius: 50%;
+}
+#jogarnovo{
+    position: relative;
+    left: 40%;
+    background-color:black;
+    color:aquamarine;
+    border-radius: 50%;
+}
+#escreveVence{
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    color: blue;
+    
+}
+#rodada{
+    color: red;
+    margin-left: 12%;
+}
